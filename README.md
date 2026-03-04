@@ -9,4 +9,4 @@ Simple auto key clicker made with VS.
 - Probably illegal in 3 Roblox games
 
 ## Download
-Go to Releases tab.
+Go to Releases tab and install the "MixaAKC.zip" file
