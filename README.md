@@ -1,5 +1,5 @@
 # Mixa's Auto Key Clicker
-Simple auto key clicker made with WPF.
+Simple auto key clicker made with VS.
 
 ## Features
 - Custom interval
