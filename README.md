@@ -1,2 +1,12 @@
-# Mixa_AutoKeyClicker
-My own Auto Key Clicker
+# Mixa's Auto Key Clicker
+Simple auto key clicker made with WPF.
+
+## Features
+- Custom interval
+- Key combinations
+- Hotkey toggle
+- Clean UI
+- Probably illegal in 3 Roblox games
+
+## Download
+Go to Releases tab.
